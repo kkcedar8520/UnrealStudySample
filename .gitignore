@@ -1,0 +1,51 @@
+
+# https://www.toptal.com/developers/gitignore/api/visualstudiocode,c++에 의해 생성됨
+# https://www.toptal.com/developers/gitignore?templates=visualstudiocode,c++에서 편집
+
+### C ++ ###
+# 전제 조건
+*.디
+
+# 컴파일 된 객체 파일
+* .slo
+*.봐라
+*.영형
+* .obj
+
+# 미리 컴파일 된 헤더
+* .gch
+* .pch
+
+# 컴파일 된 동적 라이브러리
+*.그래서
+* .dylib
+* .dll
+
+# Fortran 모듈 파일
+*.모드
+* .smod
+
+# 컴파일 된 정적 라이브러리
+* .lai
+*.라
+*.ㅏ
+* .lib
+
+# 실행 파일
+* .exe
+*.밖
+*.앱
+
+### VisualStudioCode ###
+.vscode / *
+! .vscode / settings.json
+! .vscode / tasks.json
+! .vscode / launch.json
+! .vscode / extensions.json
+* .code-workspace
+
+### VisualStudioCode 패치 ###
+# 파일의 모든 로컬 기록 무시
+.역사
+
+# https://www.toptal.com/developers/gitignore/api/visualstudiocode,c++ 끝
