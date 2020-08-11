@@ -69,15 +69,29 @@ void AMyCharacter::BeginPlay()
 	AArenaBattleGameMode* gm = Cast< AArenaBattleGameMode>(GameMode);
 	MyDelegateHandle=gm->MyStandarddDelegate.AddUObject(this, &AMyCharacter::EnableLight);
 
-	FName WeaponSokect(TEXT("hand_rSocket"));
-	auto CurWeapon = GetWorld()->SpawnActor<AABWeapon>(FVector::ZeroVector, FRotator::ZeroRotator);
+	//FName WeaponSokect(TEXT("hand_rSocket"));
+	//auto CurWeapon = GetWorld()->SpawnActor<AABWeapon>(FVector::ZeroVector, FRotator::ZeroRotator);
 
-	if (nullptr != CurWeapon)
-	{
-		CurWeapon->AttachToComponent(GetMesh(), FAttachmentTransformRules::SnapToTargetIncludingScale, WeaponSokect);
-	}
+	//if (nullptr != CurWeapon)
+	//{
+	//	CurWeapon->AttachToComponent(GetMesh(), FAttachmentTransformRules::SnapToTargetIncludingScale, WeaponSokect);
+	//}
 } 
+bool AMyCharacter::CanSetWeapon()
+{
+	return (nullptr == CurrentWeapon);
+}
+void AMyCharacter::SetWeapon(AABWeapon* NewWeapon)
+{
 
+	FName WeaponSocket(TEXT("hand_rSocket"));
+	if (nullptr != NewWeapon)
+	{
+		NewWeapon->AttachToComponent(GetMesh(), FAttachmentTransformRules::SnapToTargetNotIncludingScale, WeaponSocket);
+		NewWeapon->SetOwner(this);
+		CurrentWeapon = NewWeapon;
+	}
+}
 // Called every frame
 void AMyCharacter::Tick(float DeltaTime)
 {
