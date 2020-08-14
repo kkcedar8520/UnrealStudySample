@@ -1,0 +1,27 @@
+E:\Unreal\SampleProject\Plugins\BasisCore\Intermediate\Build\Win64\UE4Editor\DebugGame\BasisCore\Definitions.BasisCore.h
+E:/Unreal/SampleProject/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/BasisCore.init.gen.cpp
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:/Unreal/SampleProject/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/FPSCharacter.gen.cpp
+E:\Unreal\SampleProject\Plugins\BasisCore\Source\BasisCore/Public/FPSCharacter.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+e:\unreal\sampleproject\plugins\basiscore\intermediate\build\win64\ue4editor\inc\basiscore\FPSCharacter.generated.h
+E:/Unreal/SampleProject/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/HGameMode.gen.cpp
+E:\Unreal\SampleProject\Plugins\BasisCore\Source\BasisCore/Public/HGameMode.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+e:\unreal\sampleproject\plugins\basiscore\intermediate\build\win64\ue4editor\inc\basiscore\HGameMode.generated.h
+E:/Unreal/SampleProject/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/MyGameInstance.gen.cpp
+E:\Unreal\SampleProject\Plugins\BasisCore\Source\BasisCore/Public/MyGameInstance.h
+e:\unreal\sampleproject\plugins\basiscore\intermediate\build\win64\ue4editor\inc\basiscore\MyGameInstance.generated.h
+E:/Unreal/SampleProject/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/Projectile.gen.cpp
+E:\Unreal\SampleProject\Plugins\BasisCore\Source\BasisCore/Public/Projectile.h
+e:\unreal\sampleproject\plugins\basiscore\intermediate\build\win64\ue4editor\inc\basiscore\Projectile.generated.h
+E:/Unreal/SampleProject/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/TPSCharacter.gen.cpp
+E:\Unreal\SampleProject\Plugins\BasisCore\Source\BasisCore/Public/TPSCharacter.h
+e:\unreal\sampleproject\plugins\basiscore\intermediate\build\win64\ue4editor\inc\basiscore\TPSCharacter.generated.h

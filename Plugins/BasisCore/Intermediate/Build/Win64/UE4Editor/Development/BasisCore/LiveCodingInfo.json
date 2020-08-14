@@ -1,0 +1,37 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BasisCore.cpp.obj": [
+			"AOSAbilitySystemComponent.cpp.obj",
+			"AOSAttributeSet.cpp.obj",
+			"AOSCharacterBase.cpp.obj",
+			"AOSGameplayEffect.cpp.obj",
+			"AOSGameplayTask.cpp.obj",
+			"BasisCore.cpp.obj",
+			"FPSCharacter.cpp.obj",
+			"GameInterface.cpp.obj",
+			"HGameMode.cpp.obj",
+			"MyGameInstance.cpp.obj",
+			"MyGameplayAbility.cpp.obj",
+			"Projecttile.cpp.obj",
+			"SampleActor.cpp.obj",
+			"TPSCharacter.cpp.obj"
+		],
+		"Module.BasisCore.gen.cpp.obj": [
+			"AOSAbilitySystemComponent.gen.cpp.obj",
+			"AOSAttributeSet.gen.cpp.obj",
+			"AOSCharacterBase.gen.cpp.obj",
+			"AOSGameplayEffect.gen.cpp.obj",
+			"AOSGameplayTask.gen.cpp.obj",
+			"BasisCore.init.gen.cpp.obj",
+			"FPSCharacter.gen.cpp.obj",
+			"GameInterface.gen.cpp.obj",
+			"HGameMode.gen.cpp.obj",
+			"MyGameInstance.gen.cpp.obj",
+			"MyGameplayAbility.gen.cpp.obj",
+			"Projectile.gen.cpp.obj",
+			"SampleActor.gen.cpp.obj",
+			"TPSCharacter.gen.cpp.obj"
+		]
+	}
+}

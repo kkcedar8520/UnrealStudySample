@@ -1,0 +1,2 @@
+E:\Unreal\SampleProject\Plugins\BasisMap\Intermediate\Build\Win64\UE4Editor\DebugGame\BasisMap\Definitions.BasisMap.h
+E:\Unreal\SampleProject\Plugins\BasisMap\Source\BasisMap\Public\BasisMap.h

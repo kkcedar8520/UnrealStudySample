@@ -1,0 +1,2 @@
+E:\Unreal\ArenaBattle\Plugins\BasisMap\Intermediate\Build\Win64\UE4Editor\Development\BasisMap\Definitions.BasisMap.h
+E:\Unreal\ArenaBattle\Plugins\BasisMap\Source\BasisMap\Public\BasisMap.h

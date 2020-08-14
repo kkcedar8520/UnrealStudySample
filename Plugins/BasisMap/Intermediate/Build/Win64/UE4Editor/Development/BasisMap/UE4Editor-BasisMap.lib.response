@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BasisMap.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Unreal\ArenaBattle\Plugins\BasisMap\Intermediate\Build\Win64\UE4Editor\Development\BasisMap\BasisMap.cpp.obj"
+"E:\Unreal\ArenaBattle\Plugins\BasisMap\Intermediate\Build\Win64\UE4Editor\Development\BasisMap\Default.rc2.res"
+/OUT:"E:\Unreal\ArenaBattle\Plugins\BasisMap\Intermediate\Build\Win64\UE4Editor\Development\BasisMap\UE4Editor-BasisMap.lib"
+/INCLUDE:IMPLEMENT_MODULE_BasisMap

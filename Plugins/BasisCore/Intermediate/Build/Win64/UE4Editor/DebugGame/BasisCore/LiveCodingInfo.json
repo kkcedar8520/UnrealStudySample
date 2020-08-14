@@ -1,0 +1,24 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BasisCore.cpp.obj": [
+			"BasisCore.cpp.obj",
+			"FPSCharacter.cpp.obj",
+			"GameInterface.cpp.obj",
+			"HGameMode.cpp.obj",
+			"MyGameInstance.cpp.obj",
+			"Projecttile.cpp.obj",
+			"SampleActor.cpp.obj",
+			"TPSCharacter.cpp.obj",
+			"GameInterface.cpp.obj"
+		],
+		"Module.BasisCore.gen.cpp.obj": [
+			"BasisCore.init.gen.cpp.obj",
+			"FPSCharacter.gen.cpp.obj",
+			"HGameMode.gen.cpp.obj",
+			"MyGameInstance.gen.cpp.obj",
+			"Projectile.gen.cpp.obj",
+			"TPSCharacter.gen.cpp.obj"
+		]
+	}
+}

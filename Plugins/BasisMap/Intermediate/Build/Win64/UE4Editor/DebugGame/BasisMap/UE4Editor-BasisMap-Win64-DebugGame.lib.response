@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BasisMap-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal\SampleProject\Intermediate\Build\Win64\SampleProjectEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"E:\Unreal\SampleProject\Plugins\BasisMap\Intermediate\Build\Win64\UE4Editor\DebugGame\BasisMap\BasisMap.cpp.obj"
+"E:\Unreal\SampleProject\Plugins\BasisMap\Intermediate\Build\Win64\UE4Editor\DebugGame\BasisMap\Default.rc2.res"
+/OUT:"E:\Unreal\SampleProject\Plugins\BasisMap\Intermediate\Build\Win64\UE4Editor\DebugGame\BasisMap\UE4Editor-BasisMap-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_BasisMap

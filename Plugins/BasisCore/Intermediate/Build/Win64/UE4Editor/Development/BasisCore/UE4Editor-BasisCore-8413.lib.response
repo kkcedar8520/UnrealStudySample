@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BasisCore-8413.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Unreal\ArenaBattle\Plugins\BasisCore\Intermediate\Build\Win64\UE4Editor\Development\BasisCore\Module.BasisCore.cpp.obj"
+"E:\Unreal\ArenaBattle\Plugins\BasisCore\Intermediate\Build\Win64\UE4Editor\Development\BasisCore\Module.BasisCore.gen.cpp.obj"
+"E:\Unreal\ArenaBattle\Plugins\BasisCore\Intermediate\Build\Win64\UE4Editor\Development\BasisCore\Default.rc2.res"
+/OUT:"E:\Unreal\ArenaBattle\Plugins\BasisCore\Intermediate\Build\Win64\UE4Editor\Development\BasisCore\UE4Editor-BasisCore-8413.lib"
+/INCLUDE:IMPLEMENT_MODULE_BasisCore

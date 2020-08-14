@@ -1,0 +1,105 @@
+E:\Unreal\ArenaBattle\Plugins\BasisCore\Intermediate\Build\Win64\UE4Editor\Development\BasisCore\Definitions.BasisCore.h
+E:/Unreal/ArenaBattle/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/AOSAbilitySystemComponent.gen.cpp
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\Unreal\ArenaBattle\Plugins\BasisCore\Source\BasisCore/Public/AOSAbilitySystemComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public\AbilitySystemComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+c:\program files\epic games\ue_4.25\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\AttributeSet.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/CurveTable.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Curves/SimpleCurve.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SimpleCurve.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveTable.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AttributeSet.generated.h
+c:\program files\epic games\ue_4.25\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\GameplayEffectTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\PhysicalMaterials/PhysicalMaterial.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Vehicles/TireType.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TireType.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsSettingsEnums.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicsSettingsEnums.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicalMaterial.generated.h
+c:\program files\epic games\ue_4.25\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\AbilitySystemLog.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLogger.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayEffectTypes.generated.h
+c:\program files\epic games\ue_4.25\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\GameplayPrediction.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayPrediction.generated.h
+c:\program files\epic games\ue_4.25\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\GameplayCueInterface.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayCueInterface.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagAssetInterface.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagAssetInterface.generated.h
+c:\program files\epic games\ue_4.25\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\GameplayAbilitySpec.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbilitySpec.generated.h
+c:\program files\epic games\ue_4.25\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\GameplayEffect.h
+c:\program files\epic games\ue_4.25\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\GameplayEffectAggregator.h
+c:\program files\epic games\ue_4.25\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\ActiveGameplayEffectIterator.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayEffect.generated.h
+c:\program files\epic games\ue_4.25\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\Abilities/GameplayAbilityTypes.h
+c:\program files\epic games\ue_4.25\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\Abilities/GameplayAbilityTargetTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbilityTargetTypes.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbilityTypes.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTasksComponent.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\gameplaytasks\classes\GameplayTaskOwnerInterface.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTasks\Public\GameplayTaskTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTaskOwnerInterface.generated.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\gameplaytasks\classes\GameplayTask.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakInterfacePtr.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTask.generated.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\gameplaytasks\classes\GameplayTaskResource.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTaskResource.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTasksComponent.generated.h
+c:\program files\epic games\ue_4.25\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\Abilities/GameplayAbility.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\GameplayAbility.generated.h
+c:\program files\epic games\ue_4.25\engine\plugins\runtime\gameplayabilities\source\gameplayabilities\public\AbilitySystemReplicationProxyInterface.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AbilitySystemReplicationProxyInterface.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AbilitySystemComponent.generated.h
+e:\unreal\arenabattle\plugins\basiscore\intermediate\build\win64\ue4editor\inc\basiscore\AOSAbilitySystemComponent.generated.h
+E:/Unreal/ArenaBattle/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/AOSAttributeSet.gen.cpp
+E:\Unreal\ArenaBattle\Plugins\BasisCore\Source\BasisCore/Public/AOSAttributeSet.h
+e:\unreal\arenabattle\plugins\basiscore\intermediate\build\win64\ue4editor\inc\basiscore\AOSAttributeSet.generated.h
+E:/Unreal/ArenaBattle/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/AOSCharacterBase.gen.cpp
+E:\Unreal\ArenaBattle\Plugins\BasisCore\Source\BasisCore/Public/AOSCharacterBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+e:\unreal\arenabattle\plugins\basiscore\intermediate\build\win64\ue4editor\inc\basiscore\AOSCharacterBase.generated.h
+E:/Unreal/ArenaBattle/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/AOSGameplayEffect.gen.cpp
+E:\Unreal\ArenaBattle\Plugins\BasisCore\Source\BasisCore/Public/AOSGameplayEffect.h
+e:\unreal\arenabattle\plugins\basiscore\intermediate\build\win64\ue4editor\inc\basiscore\AOSGameplayEffect.generated.h
+E:/Unreal/ArenaBattle/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/AOSGameplayTask.gen.cpp
+E:\Unreal\ArenaBattle\Plugins\BasisCore\Source\BasisCore/Public/AOSGameplayTask.h
+e:\unreal\arenabattle\plugins\basiscore\intermediate\build\win64\ue4editor\inc\basiscore\AOSGameplayTask.generated.h
+E:/Unreal/ArenaBattle/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/BasisCore.init.gen.cpp
+E:/Unreal/ArenaBattle/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/FPSCharacter.gen.cpp
+E:\Unreal\ArenaBattle\Plugins\BasisCore\Source\BasisCore/Public/FPSCharacter.h
+e:\unreal\arenabattle\plugins\basiscore\intermediate\build\win64\ue4editor\inc\basiscore\FPSCharacter.generated.h
+E:/Unreal/ArenaBattle/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/GameInterface.gen.cpp
+E:\Unreal\ArenaBattle\Plugins\BasisCore\Source\BasisCore/Public/GameInterface.h
+e:\unreal\arenabattle\plugins\basiscore\intermediate\build\win64\ue4editor\inc\basiscore\GameInterface.generated.h
+E:/Unreal/ArenaBattle/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/HGameMode.gen.cpp
+E:\Unreal\ArenaBattle\Plugins\BasisCore\Source\BasisCore/Public/HGameMode.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+e:\unreal\arenabattle\plugins\basiscore\intermediate\build\win64\ue4editor\inc\basiscore\HGameMode.generated.h
+E:/Unreal/ArenaBattle/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/MyGameInstance.gen.cpp
+E:\Unreal\ArenaBattle\Plugins\BasisCore\Source\BasisCore/Public/MyGameInstance.h
+e:\unreal\arenabattle\plugins\basiscore\intermediate\build\win64\ue4editor\inc\basiscore\MyGameInstance.generated.h
+E:/Unreal/ArenaBattle/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/MyGameplayAbility.gen.cpp
+E:\Unreal\ArenaBattle\Plugins\BasisCore\Source\BasisCore/Public/MyGameplayAbility.h
+e:\unreal\arenabattle\plugins\basiscore\intermediate\build\win64\ue4editor\inc\basiscore\MyGameplayAbility.generated.h
+E:/Unreal/ArenaBattle/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/Projectile.gen.cpp
+E:\Unreal\ArenaBattle\Plugins\BasisCore\Source\BasisCore/Public/Projectile.h
+e:\unreal\arenabattle\plugins\basiscore\intermediate\build\win64\ue4editor\inc\basiscore\Projectile.generated.h
+E:/Unreal/ArenaBattle/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/SampleActor.gen.cpp
+E:\Unreal\ArenaBattle\Plugins\BasisCore\Source\BasisCore/Public/SampleActor.h
+e:\unreal\arenabattle\plugins\basiscore\intermediate\build\win64\ue4editor\inc\basiscore\SampleActor.generated.h
+E:/Unreal/ArenaBattle/Plugins/BasisCore/Intermediate/Build/Win64/UE4Editor/Inc/BasisCore/TPSCharacter.gen.cpp
+E:\Unreal\ArenaBattle\Plugins\BasisCore\Source\BasisCore/Public/TPSCharacter.h
+e:\unreal\arenabattle\plugins\basiscore\intermediate\build\win64\ue4editor\inc\basiscore\TPSCharacter.generated.h
